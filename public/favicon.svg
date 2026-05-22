@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" fill="none">
+  <!-- Connections -->
+  <line x1="13" y1="5" x2="5" y2="20" stroke="#3182CE" stroke-width="1.8" stroke-opacity="0.6" />
+  <line x1="13" y1="5" x2="21" y2="20" stroke="#3182CE" stroke-width="1.8" stroke-opacity="0.6" />
+  <line x1="5" y1="20" x2="21" y2="20" stroke="#3182CE" stroke-width="1.8" stroke-opacity="0.5" />
+  <!-- Nodes on top -->
+  <circle cx="13" cy="5" r="3.2" fill="#3182CE" />
+  <circle cx="5" cy="20" r="3.2" fill="#3182CE" fill-opacity="0.85" />
+  <circle cx="21" cy="20" r="3.2" fill="#3182CE" fill-opacity="0.85" />
+</svg>
